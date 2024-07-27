@@ -147,6 +147,7 @@ a {
 
 .tile {
     display: grid;
+    margin-top: -100px;
     place-items: center;
     width: 38vmin;
     aspect-ratio: 1;
